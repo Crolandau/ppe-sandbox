@@ -1,0 +1,4 @@
+Session 1 - Outline
+
+Configuration of Git
+First commands
